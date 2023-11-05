@@ -1,0 +1,14 @@
+Package: colslr
+Type: Package
+Title: Colour Palette for SLR Consulting
+Version: 0.1.0
+Author: Holly Ormond
+Maintainer: The package maintainer <hollyormond@gmail.com>
+Description: Colour palettes in brand colours to use for data vis in R. 
+  'primary_green' is the perferred palette with six colours. There is also secondary_light, secondary_mid and secondary_dark, each with 6 colours. 
+  If more colours are needed, "secondary_palette" has 42. 
+  'shades' is a grey tone palette. 
+  Lightest colour is "colour1", to darkest colour "colour6".
+License: creative commons
+Encoding: UTF-8
+LazyData: true
